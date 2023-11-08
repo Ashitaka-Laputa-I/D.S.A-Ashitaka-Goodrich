@@ -1,2 +1,1 @@
-# D.S.A-Ashitaka-Goodrich
- Ashitaka's Homeworks based on Goodrich's Codes
+此为Goodrich书中的基本源代码,后续的更新全是对此的扩展与修改
